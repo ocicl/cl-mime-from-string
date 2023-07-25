@@ -1,0 +1,10 @@
+* cl-mime-from-string
+
+a single function library that takes in a string and returns the mime-type based on the extension
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/cl-mime-from-string.git   |
+| commit  | 5e480a8  |
+| systems | cl-mime-from-string |
+|---------+-------------------------------------------|
+
